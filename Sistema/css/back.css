@@ -1,0 +1,2 @@
+#back_to_top a.cd-top:link,#back_to_top a.cd-top:visited,#back_to_top a.cd-top:hover,#back_to_top a.cd-top:focus{ background:#E0821E url(/modules/mod_jt_scrolltotop/assets/images/cd-top-arrow.svg) no-repeat 95% 50%; padding: 5px 5px 5px 5px; color:#ffffff;}
+.cd-top.cd-is-visible {opacity: 1;}

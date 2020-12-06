@@ -1,0 +1,59 @@
+#sp-header-cintillo{ background-color:#f8f8f8;margin:-2px 0px -10px 0px; }
+
+.cintillo {display: block; margin-left: auto; margin-right: auto;}
+
+#fondo{
+		background-repeat: no-repeat;
+		background-size: 100%;
+		position: inherit;
+		height: 1000px;}
+main { 
+	background-image: : url("indioc.png"); }
+		
+
+table.sistema{position: inherit;
+		width: 800px;
+		max-width: 768px
+	}
+#analista{ position: inherit;
+			
+}
+
+#experto{ color: black; }
+#texto,#result, #msj{
+			color: #8c4196;
+
+}
+#expert,#resultado{color:#3399cc; }
+#contactos{background-color: black;
+		background-image: url("/home/rebeca/Documentos/Sistema Experto/imagenes/footer.png");
+		max-width: 1200px;
+		position: inherit;}
+
+.titulo, .parrafo{color: white;}
+.redes{width: 35px; height: 35px;}
+
+
+#canaimablanco{
+				width:150px;
+				margin-left:110px;
+				margin-top: 40px;}
+footer{ color: #8c4196;}
+#manualtec{background-color:#999933;}
+#manualusu{background-color:#3399cc;}
+#reportes{background-color: #8c4196;
+			position: relative;
+			left: 70%;
+			bottom: -5%;}
+#manualtec:hover, #manualusu:hover, #reportes:hover{ color: black; }
+
+#manualusu, #manualtec, #reportes{margin: 7px;
+			display: inline;
+			vertical-align: text-bottom;
+			padding: 9px;
+			color: white;
+		}
+.t2{position: static;}
+.t3{border-right-style: dashed;
+		border-color: #8c4196;}
+.t4{color: #999933;}

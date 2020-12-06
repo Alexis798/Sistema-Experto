@@ -1,0 +1,143 @@
+a {
+  color: #8C4196;
+}
+a:hover {
+  color: #6a3271;
+}
+.sp-megamenu-parent >li.active>a{
+  color: #3194B5;
+  opacity: 0.9;
+}
+.sp-megamenu-parent >li:hover>a {
+  color: #f8f8f8;
+  background-color: #8C4196;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item >a:hover {
+  /*margin-left: 5px;*/
+  background: #6a3271;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item.active>a {
+  background-color: #6a3271;
+  color: #f8f8f8;
+}
+#offcanvas-toggler >i {
+  color: #8C4196;
+}
+#offcanvas-toggler >i:hover {
+  color: #8C4196;
+}
+.btn-primary,
+.sppb-btn-primary {
+  border-color: #6a3271;
+  background-color: #8C4196;
+}
+.btn-primary:hover,
+.sppb-btn-primary:hover {
+  border-color: #6a3271;
+  background-color: #6a3271;
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+    color: #f8f8f8 !important;
+    background-color: #8C4196 !important;
+    border-color: #8C4196 !important;
+}
+/*.btn-success:hover{
+  border-color: #8C4196 !important;
+  background-color: #D7BAD9 !important;
+  color: #6a3271 !important;
+}
+.btn-success{
+  border-color: #D7BAD9 !important;
+  color: #BBB845 !important;
+  background-color: transparent !important;
+}*/
+.btn-success{
+  border-color: #BBB845 !important;
+  background-color: #BBB845 !important;
+  color: #333 !important;
+}
+.btn-success:hover{
+  border-color: #BBB845 !important;
+  color: #BBB845 !important;
+  background-color: transparent !important;
+}
+ul.social-icons >li a:hover {
+  color: #8C4196;
+}
+.sp-page-title {
+  background: #8C4196;
+}
+.layout-boxed .body-innerwrapper {
+  background: #ffffff;
+}
+.sp-module ul >li >a {
+  color: #333333;
+}
+.sp-module ul >li >a:hover {
+  color: #8C4196;
+}
+.sp-module .latestnews >div >a {
+  color: #333333;
+}
+.sp-module .latestnews >div >a:hover {
+  color: #8C4196;
+}
+.sp-module .tagscloud .tag-name:hover {
+  background: #8C4196;
+}
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li.active > a,
+.sp-simpleportfolio .sp-simpleportfolio-filter > ul > li > a:hover {
+  background: #8C4196;
+}
+.search .btn-toolbar button {
+  background: #8C4196;
+}
+.post-format {
+  background: #8C4196;
+}
+.voting-symbol span.star.active:before {
+  color: #8C4196;
+}
+.sp-rating span.star:hover:before,
+.sp-rating span.star:hover ~ span.star:before {
+  color: #6a3271;
+}
+.entry-link,
+.entry-quote {
+  background: #8C4196;
+}
+blockquote {
+  border-color: #f8f8f8;
+}
+.carousel-left:hover,
+.carousel-right:hover {
+  background: #8C4196;
+}
+#sp-footer {
+  background: #333;
+}
+.sp-comingsoon body {
+  background-color: #8C4196;
+}
+.pagination>li>a,
+.pagination>li>span {
+  color: #333333;
+}
+.pagination>li>a:hover,
+.pagination>li>a:focus,
+.pagination>li>span:hover,
+.pagination>li>span:focus {
+  color: #333333;
+}
+.pagination>.active>a,
+.pagination>.active>span {
+  border-color: #8C4196;
+  background-color: #8C4196;
+}
+.pagination>.active>a:hover,
+.pagination>.active>a:focus,
+.pagination>.active>span:hover,
+.pagination>.active>span:focus {
+  border-color: #8C4196;
+  background-color: #8C4196;
+}

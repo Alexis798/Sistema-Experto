@@ -1,0 +1,35 @@
+<div id="contactos">
+ <table align="center">
+  <tr>
+  <td width="500"></td>
+  <td width="200">
+  <img class="canaimablanco" src="/home/rebe/Documentos/Rebeca/Sistema Experto/imagenes/canaima-logo_white_mobil.png">    
+  </td>
+  <td width="400">
+    <h4 class="titulo" align="center"><b>Cont&aacute;ctanos</b></h4>
+  </td>
+  <td width="400">
+    <h4 class="titulo" align="center"><b>Direcci&oacute;n</b></h4>
+  </td>
+  <td width="400">
+    <h4 class="titulo" align="center"><b>S&iacute;guenos</b></h4>
+  </td>
+  <td width="500"></td>
+</tr>
+<tr>
+  <td width="200"></td>
+  <td width="200"></td>
+  <td>
+    <p class="parrafo">+58 (212) 509-4211 - 0500-CNTI-000 &oacute; (0212) 576-6312<br>
+    <a style="color: #8c4196;" href="https://canaima.softwarelibre.gob.ve/contacto"> Escr&iacute;benos tus inquietudes </a></p>
+  </td>
+  <td>
+    <p class="parrafo">Avenida Andr&eacute;s Bello, sector Guaicaipuro, Torre Fondo Com&uacute;n, piso 02. Caracas, Distrito Capital - Codigo Postal 1050. Venezuela</p> 
+  </td>
+  <td>
+    <div><center><img class="redes" src="/home/rebe/Documentos/Rebeca/Sistema Experto/imagenes/t.png"><img class="redes" src="/home/rebe/Documentos/Rebeca/Sistema Experto/imagenes/y.png"></center></div>
+  </td>
+  <td width="500"></td>
+</tr>
+</table>  
+</div>
