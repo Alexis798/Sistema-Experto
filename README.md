@@ -6,7 +6,6 @@
 
 **COPYRIGHT:** (C) 2018 Jose Goncalves <@x8xgoncalvesx8x>, Kleyber Infante <@Kleyber1002>, Andres Alexis <@Alexis98>, Rebeca Ochoa <@ochoarebe>
 
-**LICENCIA:** Open Realice
 
 Han transcurrido más de 36 años desde que las minicomputadores y luego las computadoras personales, irrumpieron en las
 organizaciones donde anteriormente dominaban las grandes computadoras mainframe. Esta revolución tecnológica vino acompañada de una
